@@ -37,14 +37,14 @@ const CONFIG = {
           description:
             'A VR mech and movement shooter currently in development.',
           imageUrl:
-            'https://i.imgur.com/IrtEIAH.jpeg',
+            'https://i.imgur.com/1gEGPtx.jpeg',
           link: 'https://youtu.be/Hb88N3I3bZY',
         },
       ],
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Virus',
     description: '',
     imageURL: '',
   },
@@ -61,8 +61,8 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'Virus-vr',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
