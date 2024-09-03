@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'A VR mech and movement shooter currently in development.',
           imageUrl:
-            'https://i.imgur.com/1gEGPtx.jpeg',
+            'https://i.imgur.com/ytMtQhF.jpg',
           link: 'https://youtu.be/Hb88N3I3bZY',
         },
       ],
